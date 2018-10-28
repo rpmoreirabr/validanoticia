@@ -24,6 +24,10 @@ Qualquer pessoa pode validar ou invalidar uma notícia através de voto, desde q
 
 ## Layout Sugerido:
 ### 1. Notícia verdadeira:
+![Notícia verdadeira](https://github.com/rpmoreirabr/validanoticia/blob/master/layout/Detalhes%20Recolhidos-Verdadeiro.png?raw=true)
 ### 2. Notícia verdadeira com detalhes:
+![Notícia verdadeira com detalhes](https://github.com/rpmoreirabr/validanoticia/blob/master/layout/Detalhes%20Expandidos-Verdadeiro.png?raw=true)
 ### 3. Notícia falsa:
+![Notícia falsa](https://github.com/rpmoreirabr/validanoticia/blob/master/layout/Detalhes%20Recolhidos-Falso.png?raw=true)
 ### 4. Notícia falsa com detalhes:
+![Notícia falsa com detalhes](https://github.com/rpmoreirabr/validanoticia/blob/master/layout/Detalhes%20Expandidos-Falso.png?raw=true)
